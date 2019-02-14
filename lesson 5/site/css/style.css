@@ -1,0 +1,22 @@
+h2{
+  text-align: center;
+  color: #000080 ;
+  border: solid; 
+  border-color: #cacd58;
+  border-width: 5px;
+ }
+body{
+  background-color: #FFE4B5;
+}
+.one{
+  font-style: italic;
+}
+.two{
+  text-decoration: underline;
+}
+.one-one{
+  font-weight: bolder;
+}
+p{
+  color: #2F4F4F;
+}
