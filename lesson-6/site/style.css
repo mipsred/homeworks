@@ -1,0 +1,42 @@
+*{
+  box-sizing: border-box
+}
+.box{
+  display: block;
+  margin-left: auto;
+  margin-right: auto; 
+  margin-top: 85px;
+  border: 1px solid #d7d7d7;
+  width: 1010px;
+  height: 503px;
+  
+}
+.picture{
+  display: inline-block;
+  margin-top: 64px;
+  margin-left: 48px;
+  
+}
+.text{
+  display: inline-block;
+  border-right: 99px;
+  text-align:  left;
+  vertical-align: bottom;
+  margin-left: 102px;
+  padding-bottom: 50px;
+  padding-top: 30px;
+
+}
+.price{
+  font-size: 28px;
+  
+}
+.basket{
+  height: 50px; 
+  width: 252px;
+  background-color: #ec744a;
+  border: 0px;
+  font-size: 18px;
+  color: aliceblue
+}
+
