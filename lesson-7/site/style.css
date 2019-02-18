@@ -1,0 +1,32 @@
+
+.heading{
+  font-size: 31px;
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: 125px;
+}
+
+.blok{
+  display: flex;
+  width: 90%;
+  margin: auto;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.element{
+  margin-left: 70px; 
+}
+
+.buy{
+  border: 1px solid #23bac1;
+  width: 200px;
+  height: 55px;
+  background-color: #f9f9f9;
+  color: #40c2c8;  
+  font-size: 
+}
+
+  
+
